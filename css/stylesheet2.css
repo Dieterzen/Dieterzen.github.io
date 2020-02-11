@@ -60,9 +60,9 @@
 .dropdown:hover .dropbtn {
   background-color: #d6e6ff;
 }
-a{
+a, a:hover{
 	color:white;
 }
-.b{
+.b, a:hover{
 	color:black;
 }

@@ -9,6 +9,6 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-a{
+a, a:hover{
 	color:white;
 }
