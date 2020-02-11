@@ -10,7 +10,7 @@
 	background-size: cover;
 }
 .btn {
-  background-color: black;
+  background-color: #d6e6ff;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -18,12 +18,12 @@
   font-size: 20px;
 }
 .btn:hover {
-  background-color: black;
+  background-color: white;
 
 }
 .dropbtn {
-  background-color: black;
-  color: white;
+  background-color: #d6e6ff;
+  color: black;
   padding: 16px;
   font-size: 16px;
   border: none;
@@ -51,12 +51,18 @@
   display: block;
 }
 
-.dropdown-content a:hover {background-color: black}
+.dropdown-content a:hover {background-color: #d6e6ff}
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
 .dropdown:hover .dropbtn {
-  background-color: black;
+  background-color: #d6e6ff;
+}
+a{
+	color:white;
+}
+.b{
+	color:black;
 }
