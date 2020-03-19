@@ -4,7 +4,7 @@
 	margin-left: 5%;
 	margin-bottom:1%;
 }
-.jumbotron{
+.jumbotron,b{
 	background-image: url('image/cesenatico-05.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
